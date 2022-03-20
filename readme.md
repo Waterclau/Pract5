@@ -1,32 +1,15 @@
-# Práctica 3
+# Práctica 5
 
-## Página con Bootstrap
+## Desarrollo de API REST con Spring Boot
 
-## En esta práctica se ha mejorado la página web de la anterior práctica de BBVA, cuya estructura es:
+## En esta práctica se ha utilizado la página html creada anteriormente añadiendo spring boot.
+## Para ejecutar la funcionalidad de spring boot, hay que correr el archivo TrenesApplication.java , el cual se encuentra en la ruta:
+## trenes\src\main\java\com\example\trenes\TrenesApplication.java
 
-### index.html
+## Una vez hecho esto habrá que acceder a la siguiente direccion:
+## http://localhost:8080/Practica2_NC.html
+## donde se rellenara el form. Una vez hecho esto, si se pulsa el boton "Submit" se hace un post con los datos, lo cual se puede comprobar al inspeccionar la consola.
+## De la misma manera, si se borran los datos y se pulsa el botón "Recuperar datos", se hace un get que muestra los datos introducidos anteriormente en los campos del form correspondiente.
 
-Esta es la página principal, donde se da información general sobre varios aspectos de la compañia.
-La manera de viajar por las distintas páginas es através de la barra de navegación desplegable, que se encuentra en la parte superior de todas las páginas.
-En esta página aun no se han habilitado los links de los botones.
-
-
-### Practica2_Deportes 
-
-En esta página se muestra la informaión deportiva relacionada con la compañia , combinado texto y fotos, por medio de un carousel.
-En esta página varios links estan habilitados.
-
-### Practica2_Stats
-
-En esta página se muestran datos sobre varias compañias del ibex35 por medio de una tabla.
-
-### Practica2_Servicio
-
-Esta es la página donde los clientes pueden introducir sus datos para acceder a su cuenta, lo cual se ha realizado por medio de un formulario HTML.
-Debido a que el servicio no se encuentra disponible, al pulsar el boton se lleva al cliente a la ventana de Practica2_NC, para informale de la caida del servicio.
-
-### Practica2_Contacto
-
-En esta página se da información de contacto de la compañia en varios paises. 
-
-
+# Tambien se podría acceder a:
+# http://localhost:8080/index.html y navegar por la web hasta llegar a la misma pantalla. 
