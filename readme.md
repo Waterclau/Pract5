@@ -13,3 +13,5 @@
 
 ### Tambien se podría acceder a:
 ### http://localhost:8080/index.html y navegar por la web hasta llegar a la misma pantalla. 
+### Las funciones estan en script.js cuya ruta es:
+### trenes\src\main\resources\static\script.js
