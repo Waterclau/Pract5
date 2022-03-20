@@ -11,5 +11,5 @@
 ## donde se rellenara el form. Una vez hecho esto, si se pulsa el boton "Submit" se hace un post con los datos, lo cual se puede comprobar al inspeccionar la consola.
 ## De la misma manera, si se borran los datos y se pulsa el botón "Recuperar datos", se hace un get que muestra los datos introducidos anteriormente en los campos del form correspondiente.
 
-# Tambien se podría acceder a:
-# http://localhost:8080/index.html y navegar por la web hasta llegar a la misma pantalla. 
+### Tambien se podría acceder a:
+### http://localhost:8080/index.html y navegar por la web hasta llegar a la misma pantalla. 
