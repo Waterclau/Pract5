@@ -8,7 +8,7 @@ import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RestController;
 
 @SpringBootApplication
-@RestController//Esta anotación permite a nuestra appi proporcionar endpoints
+@RestController
 public class TrenesApplication {
 
 	public static void main(String[] args) {
